@@ -26,6 +26,6 @@ These goals were set by one person, you can set your own. :P
 
 # STUN Server
 
-The STUN server acts as the bridge between peers.
+The STUN server acts as the medium to directly connect peers.
 
 This blog post was provides a good tutorial on settings up a STUN server: https://www.dialogic.com/den/forums/t/10238.aspx
