@@ -23,3 +23,9 @@ These goals were set by one person, you can set your own. :P
   * Relay servers in case peer-to-peer communication fails.
 * Deploy the [apprtc.appspot.com](http://apprtc.appspot.com/) application.
 * Fork the apprtc app
+
+# STUN Server
+
+The STUN server acts as the bridge between peers.
+
+This blog post was provides a good tutorial on settings up a STUN server: https://www.dialogic.com/den/forums/t/10238.aspx
