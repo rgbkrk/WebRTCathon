@@ -8,6 +8,10 @@ The main webrtc site is located at [webrtc.org](http://www.webrtc.org/)
 
 Feel free to make any pull requests to change this up and add components. Adding to the wiki is great as well.
 
+# Purpose
+
+Enable people to run their own support infrastructure for WebRTC.
+
 # Goals
 
 These goals were set by one person, you can set your own. :P
